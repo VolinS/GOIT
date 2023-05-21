@@ -1,0 +1,63 @@
+<empinfo>
+  <employes>
+    <employee>
+      <Id>01></Id>
+      <name>Panas Kryt</name>
+        <address>
+          <city>Lybny></city>
+          <street>Dybova></street>
+          <house>7b></house>
+          <flat>15></flat>
+        </address>
+        <contact>
+          <tel>'0505436127'></tel>
+          <email>panascrut@gmail.com></email>
+          <Skype>Panas_Krut></Skype>
+        </contact>
+      </emloyee>
+      <employee>
+      <Id>02></Id>
+      <name>Tuxon Zduchavily</name>
+        <address>
+          <city>Tarashcha></city>
+          <street>Kruva></street>
+          <house>111></house>
+          <flat>22></flat>
+        </address>
+        <contact>
+          <tel>'0661346123'></tel>
+          <email>tuhonzdch@gmail.com></email>
+          <Skype>Tuh_Zduch></Skype>
+        </contact>
+      </emloyee>
+      <employee>
+      <Id>03></Id>
+      <name>Sudor Kloz</name>
+        <address>
+          <city>Lukivka></city>
+          <street>Prama></street>
+          <house>157></house>
+          <flat>99></flat>
+        </address>
+        <contact>
+          <tel>'0936549432'></tel>
+          <email>sudkloz@gmail.com></email>
+          <Skype>Sud_Kloz></Skype>
+        </contact>
+      </emloyee>
+      <Id>04></Id>
+      <name>Gnat Kruvomlin</name>
+        <address>
+          <city>Shymsk></city>
+          <street>Berezova></street>
+          <house>945></house>
+          <flat>678></flat>
+        </address>
+        <contact>
+          <tel>'0632934789'></tel>
+          <email>gnatkriv@gmail.com></email>
+          <Skype>Gnat_Kriv></Skype>
+        </contact>
+      </emloyee>
+   </employees>
+</empinfo>
